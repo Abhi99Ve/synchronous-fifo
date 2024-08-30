@@ -1,1 +1,1 @@
-# fifo
+# Synchronous-FIFO
